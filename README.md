@@ -35,8 +35,6 @@ The idea of this smart contract is to create a charity contract manager to run m
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a-->
   </p>
-  <br>
-  <br>
 </div>
 
 
