@@ -69,9 +69,9 @@ The idea of this smart contract is to create a charity contract manager to run m
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p>The first version (the one submitted on 10/06/2022) is made without upgrade functionalities, and with some vulnerabilities related to DOS.
+<p>The first version is made without upgrade functionalities, and may contain some vulnerabilities, as I developed it very quickly without too much thinking about security. Please report to me any vulnerability you have found.
 
-I am sorry ... I just didn't get time to fix them. However, the next version will be more secure with a bunch of security mechanisms in place.
+However, the next version will be more secure with a bunch of security mechanisms in place.
 
 So use this smart contract with extreme caution.
 
@@ -85,8 +85,8 @@ I hope that you like this smart contract, and please do not hesitate to contact 
 
 ### Built With
 
-* [Solidity](https://nextjs.org/)
-* [JavaScript](https://reactjs.org/)
+* [Solidity](https://docs.soliditylang.org/)
+* [JavaScript](https://www.javascript.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
